@@ -1,7 +1,7 @@
 <!-- Navbar -->
 
 
-* [Ro-Bot V2](./)
+* [Ro-Bot V2](./_coverpage.md)
 
 * [Documentation](./commands/index)
 
