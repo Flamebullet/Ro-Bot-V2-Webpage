@@ -16,14 +16,14 @@ Here are the commands for my bot<br><br>
 /rickroll: Clear music queue and rickroll specified voice channel<br>
 /joinvc: Pull bot into a voice channel<br><br>
 
-**Basic commands**<br>
+[**Basic commands**](./commands/basiccommands/index)<br>
 /avatar: Get discord avatar of user/server<br>
 /info: Get discord infomation of user/server<br>
 /echo: Repeat a phrase in another channel<br>
 /help: Get list of command and functions<br>
 /react: Send reaction to a message with bot<br><br>
 
-**Utility commands**<br>
+[**Utility commands**](./commands/utilitycommands/index)<br>
 /ping: Check the latency between server and API<br>
 /clear: Delete messages from a channel<br>
 /report: Sends a report to Flame#0003<br>
