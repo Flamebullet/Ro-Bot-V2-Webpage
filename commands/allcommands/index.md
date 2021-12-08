@@ -2,19 +2,19 @@
 Here are the commands for my bot<br><br>
 
 [**Music commands**](./commands/musiccommands/index)<br>
-/play: Play a song with url from youtube/youtube music/spotify<br>
-/search: Search for a song to play from youtube<br>
-/queue: Show song queue<br>
-/dc: Delete queue and disconnect bot<br>
-/skip: Skip currently playing song<br>
-/replay: Add selected song to start of queue<br>
-/shuffle: Shuffle song queue<br>
-/radio: Turn on youtube radio function to get recommended song<br>
-/pause: Pause currently playing song<br>
-/resume: Resume currently playing song<br>
-/loop: Enable loop to loop queue after queue ends<br>
-/rickroll: Clear music queue and rickroll specified voice channel<br>
-/joinvc: Pull bot into a voice channel<br><br>
+[/play](./commands/musiccommands/play): Play a song with url from youtube/youtube music/spotify<br>
+[/search](./commands/musiccommands/search): Search for a song to play from youtube<br>
+[/queue](./commands/musiccommands/queue): Show song queue<br>
+[/dc](./commands/musiccommands/dc): Delete queue and disconnect bot<br>
+[/skip](./commands/musiccommands/skip): Skip currently playing song<br>
+[/replay](./commands/musiccommands/replay): Add selected song to start of queue<br>
+[/shuffle](./commands/musiccommands/shuffle): Shuffle song queue<br>
+[/radio](./commands/musiccommands/radio): Turn on youtube radio function to get recommended song<br>
+[/pause](./commands/musiccommands/pause): Pause currently playing song<br>
+[/resume](./commands/musiccommands/resume): Resume currently playing song<br>
+[/loop](./commands/musiccommands/loop): Enable loop to loop queue after queue ends<br>
+[/rickroll](./commands/musiccommands/rickroll): Clear music queue and rickroll specified voice channel<br>
+[/joinvc](./commands/musiccommands/joinvc): Pull bot into a voice channel<br><br>
 
 [**Basic commands**](./commands/basiccommands/index)<br>
 /avatar: Get discord avatar of user/server<br>

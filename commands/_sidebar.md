@@ -1,13 +1,26 @@
 <!-- docs/_sidebar.md -->
 
 
-* [Ro-Bot V2](./commands/index)
+* Getting Started
+    * [Ro-Bot V2](./commands/index)
 
-* [All Commands](./commands/allcommands/index)
-    * [Music Commands](./commands/musiccommands/index)
+* Commands
+    * [All Commands](./commands/allcommands/index)
+    * Music Commands
         * [Play](./commands/musiccommands/play)
         * [Search](./commands/musiccommands/search)
         * [Queue](./commands/musiccommands/queue)
-    * [Basic Commands](./commands/basiccommands/index)
-    * [Utility Commands](./commands/utilitycommands/index)
+        * [Disconnect](./commands/musiccommands/dc)
+        * [Skip](./commands/musiccommands/skip)
+        * [Replay](./commands/musiccommands/replay)
+        * [Shuffle](./commands/musiccommands/shuffle)
+        * [Radio](./commands/musiccommands/radio)
+        * [Pause](./commands/musiccommands/pause)
+        * [Resume](./commands/musiccommands/resume)
+        * [Loop](./commands/musiccommands/loop)
+        * [Rickroll](./commands/musiccommands/rickroll)
+        * [Join Voice Channel](./commands/musiccommands/joinvc)
+
+    * Basic Commands
+    * Utility Commands
 
