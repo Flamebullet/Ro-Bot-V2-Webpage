@@ -7,7 +7,6 @@
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta charset="UTF-8">
         <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-        <script src="https://unpkg.com/docsify-copy-code@2"></script>
         <link rel="icon" href="./images/favicon.png">
         <title>Ro-Bot V2</title>
     </head>
@@ -20,14 +19,13 @@
                 loadSidebar: true,
                 loadNavbar: true,
                 coverpage: true,
-                coverpage: './README.md',
                 onlyCover: true,
                 plugins: [
                     function(hook) {
                     var footer = [
                         '<hr/>',
-                        '<footer>',
-                        'This site content was generated using Docify',
+                        '<footer style="text-align: center">',
+                        '<sub><sup>This site content was generated using Docify</sup></sub>',
                         '</footer>'
                     ].join('');
 
@@ -35,9 +33,17 @@
                         return html + footer;
                     });
                     }
-                ]
+                ],
+                // disqus: 'shortname',
+                copyCode: {
+                    buttonText : 'Copy to clipboard',
+                    errorText  : 'Error',
+                    successText: 'Copied'
+                }
             }
         </script>
+        <script src="https://unpkg.com/docsify-copy-code@2"></script>
+        <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script> -->
         <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     </body>
 </html>

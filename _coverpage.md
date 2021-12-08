@@ -5,7 +5,7 @@
 
 A multi-purpose, discord bot<br>
 <br>
-[Check out the commands](./commands/index)
+[Get Started!](./commands/index)
 
 <!-- background color -->
 

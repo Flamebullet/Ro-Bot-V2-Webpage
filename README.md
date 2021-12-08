@@ -6,7 +6,3 @@
 A multi-purpose, discord bot<br>
 <br>
 [Check out the commands](./commands/index)
-
-<!-- background color -->
-
-![color](#f0f0f0)
