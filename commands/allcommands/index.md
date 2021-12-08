@@ -32,4 +32,4 @@ List of slash commands for Ro-Bot V2<br><br>
 [/embed](/commands/utilitycommands/embed): Send or edit an embed message<br>
 [/welcomemsg](/commands/utilitycommands/welcomemsg): Add welcome message to server<br><br>
 
-<a class="button next" href="/#/commands/musiccommands/play" role="button">Play ></a>
+<a class="button next" href="./#/commands/musiccommands/play" role="button">Play ></a>

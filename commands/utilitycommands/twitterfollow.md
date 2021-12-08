@@ -13,5 +13,5 @@ Get infomation of specified user:<br>
 Get infomation of current server:<br>
 `/twitterfollow unfollow screenname:<String> webhookurl:<String>`<br>
 
-<a class="button prev" href="/#/commands/utilitycommands/reactrole" role="button">< Reaction Role</a>
-<a class="button next" href="/#/commands/utilitycommands/embed" role="button">Embed ></a>
+<a class="button prev" href="./#/commands/utilitycommands/reactrole" role="button">< Reaction Role</a>
+<a class="button next" href="./#/commands/utilitycommands/embed" role="button">Embed ></a>

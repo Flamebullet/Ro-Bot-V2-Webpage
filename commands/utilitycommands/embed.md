@@ -30,5 +30,5 @@ Add reaction role to message in current channel:<br>
 Add reaction role to message in specified channel:<br>
 `/embed edit messageid:<String> [options]`<br>
 
-<a class="button prev" href="/#/commands/utilitycommands/twitterfollow" role="button">< Twitter</a>
-<a class="button next" href="/#/commands/utilitycommands/welcomemsg" role="button">Welcome Message ></a>
+<a class="button prev" href="./#/commands/utilitycommands/twitterfollow" role="button">< Twitter</a>
+<a class="button next" href="./#/commands/utilitycommands/welcomemsg" role="button">Welcome Message ></a>

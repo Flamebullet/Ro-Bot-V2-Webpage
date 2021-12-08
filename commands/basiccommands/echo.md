@@ -9,5 +9,5 @@ Echo in current channel:<br>
 Echo in the specified channel:<br>
 `/echo text:<String> channel:<Text-Channel>`<br>
 
-<a class="button prev" href="/#/commands/basiccommands/info" role="button">< Info</a>
-<a class="button next" href="/#/commands/basiccommands/help" role="button">Help ></a>
+<a class="button prev" href="./#/commands/basiccommands/info" role="button">< Info</a>
+<a class="button next" href="./#/commands/basiccommands/help" role="button">Help ></a>
