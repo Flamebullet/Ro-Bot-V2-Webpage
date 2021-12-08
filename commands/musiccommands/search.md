@@ -1,9 +1,8 @@
 # /search
 
 ### Description:
-Play a song from youtube/youtube music/spotify with the given url<br>
+Search a song from youtube/youtube music/spotify to add to song queue<br>
 
 ### Usage:
-```
-/search song-name:<String>
-```
+Search for song:<br>
+`/search song-name:<String>`
