@@ -14,22 +14,12 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="light">
         <link rel="stylesheet alternative" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" title="dark">
 
-        <link rel="icon" href="./images/favicon.png">
+        <link rel="icon" href="/images/favicon.png">
         <title>Ro-Bot V2</title>
     </head>
     <body>
         <div id="app"></div>
         <style>
-            .cover-main span {
-                color: rgb(36, 36, 36);
-            }
-            .cover-main p {
-                color: rgb(200, 200, 200);
-            }
-            section.cover.show {
-                background: var(--coverBackground)!important;
-                --coverBackground: linear-gradient(to left bottom, hsl(219deg 39% 35%) 0%,hsl(181deg 50% 52%) 100%) !important
-            }
         </style>
         <script>
             window.$docsify = {
@@ -38,9 +28,10 @@
                 loadSidebar: true,
                 loadNavbar: true,
                 coverpage: true,
-                coverpage: './_coverpage.md',
+                coverpage: '_coverpage.md',
                 onlyCover: true,
                 notFoundPage: true,
+                notFoundPage: '404.md',
                 plugins: [
                     function(hook) {
                         var footer = [
@@ -73,7 +64,7 @@
                         highlightColor : '#d22778',
                         sidebarSublink : '#b4b4b4',
                         codeTypeColor : '#ffffff',
-                        coverBackground : 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
+                        coverBackground : 'linear-gradient(to left bottom, hsl(219deg 54% 23%) 0%,hsl(181deg 30% 31%) 100%)',
                         toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
                     },
                     light: {
