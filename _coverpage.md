@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![Ro_bot V2](./images/favicon.png ':size=100px')<br>
+![Ro_bot V2](./images/favicon.png ':size=150px')<br>
 # **Ro-Bot V2** <small>js</small>
 A multi-purpose, discord bot<br>
 [Get Started!](./commands/index)
