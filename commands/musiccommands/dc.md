@@ -1,11 +1,11 @@
 # /dc
 
 ### Description:
-Clears song queue and disconnects the bot from the voice channel<br>
+Clears all tracks from queue and disconnect bot from voice channel<br>
 
 ### Usage:
-Clear song queue and disconnect bot:<br>
+Clear track queue and disconnect bot:<br>
 `/dc now`<br>
 
-Clear song queue only:<br>
+Clear track queue only:<br>
 `/dc remove-queue`

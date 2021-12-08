@@ -1,11 +1,11 @@
 # /skip
 
 ### Description:
-Skip currently playing song<br>
+Remove the currently playing track from the queue.<br>
 
 ### Usage:
-Skip to next song:<br>
+Skip to next track:<br>
 `/skip`<br>
 
-Clear song queue only:<br>
+Clear track queue only:<br>
 `/skip queue-number:<Int>`

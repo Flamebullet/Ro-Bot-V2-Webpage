@@ -1,8 +1,8 @@
 # /shuffle
 
 ### Description:
-Shuffle the song in queue<br>
+Shuffle the tracks in queue.<br>
 
 ### Usage:
-Replay currently playing song:<br>
+Shuffle track:<br>
 `/shuffle`<br>

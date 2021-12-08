@@ -1,7 +1,7 @@
 # Commands
-Here are the commands for my bot<br><br>
+List of slash commands for Ro-Bot V2<br><br>
 
-[**Music commands**](/commands/musiccommands/index)<br>
+## Music commands
 [/play](/commands/musiccommands/play): Play a song with url from youtube/youtube music/spotify<br>
 [/search](/commands/musiccommands/search): Search for a song to play from youtube<br>
 [/queue](/commands/musiccommands/queue): Show song queue<br>
@@ -16,14 +16,14 @@ Here are the commands for my bot<br><br>
 [/rickroll](/commands/musiccommands/rickroll): Clear music queue and rickroll specified voice channel<br>
 [/joinvc](/commands/musiccommands/joinvc): Pull bot into a voice channel<br><br>
 
-[**Basic commands**](/commands/basiccommands/index)<br>
+## Basic commands
 /avatar: Get discord avatar of user/server<br>
 /info: Get discord infomation of user/server<br>
 /echo: Repeat a phrase in another channel<br>
 /help: Get list of command and functions<br>
 /react: Send reaction to a message with bot<br><br>
 
-[**Utility commands**](/commands/utilitycommands/index)<br>
+## Utility commands
 /ping: Check the latency between server and API<br>
 /clear: Delete messages from a channel<br>
 /report: Sends a report to Flame#0003<br>

@@ -1,8 +1,8 @@
 # /search
 
 ### Description:
-Search a song from youtube/youtube music/spotify to add to song queue<br>
+Search for a track on YouTube<br>
 
 ### Usage:
-Search for song:<br>
+Search for track:<br>
 `/search song-name:<String>`

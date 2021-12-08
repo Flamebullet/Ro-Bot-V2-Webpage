@@ -1,7 +1,7 @@
 # /queue
 
 ### Description:
-Show a list of all the songs in queue<br>
+Show a list of the tracks in queue<br>
 
 ### Usage:
 Show queue:<br>

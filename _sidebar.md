@@ -1,11 +1,12 @@
 <!-- docs/_sidebar.md -->
 
 
-* Getting Started
-    * [Ro-Bot V2](/commands/index)
+* Ro-Bot V2
+    * [**Getting Started**](/commands/index)
 
 * Commands
     * [All Commands](/commands/allcommands/index)
+
     * Music Commands
         * [Play](/commands/musiccommands/play)
         * [Search](/commands/musiccommands/search)
