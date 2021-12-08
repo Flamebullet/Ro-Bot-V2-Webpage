@@ -17,6 +17,9 @@
         <!-- Sidebar collaspe menu -->
         <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
         <link rel="icon" href="/images/favicon.png">
+
+        <!-- Bootstrap -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
         <title>Ro-Bot V2</title>
     </head>
     <body>
@@ -37,10 +40,12 @@
                 plugins: [
                     function(hook) {
                         var footer = [
+                        '<div class="footer">',
                         '<hr/>',
                         '<footer style="text-align: center">',
-                            '<sub><sup>Copyright © 2021 Ro-Bot V2, Inc. Built with Docify.</sup></sub>',
-                            '</footer>'
+                            '<sub><sup>Copyright © 2021 Ro-Bot V2, Inc. Built with Docsify.</sup></sub>',
+                            '</footer>',
+                        '</div>'
                         ].join('');
 
                         hook.afterEach(function(html) {
@@ -103,10 +108,7 @@
         </script>
         <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
         <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-        <script 
-            src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
-            type="text/javascript">
-        </script>
+        <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
 
         <!-- Sidebar plugins -->
         <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
@@ -123,6 +125,34 @@
             }
             .search {
                 padding-top: 40px !important;
+            }
+            .button {
+                display: block;
+                width: auto !important;
+                height: auto !important;
+                background: #2caa71;
+                padding: 10px  20px !important;
+                text-align: center;
+                border-radius: 5px;
+                color: white !important;
+                font-weight: bold !important;
+                line-height: 25px;
+            }
+            .next {
+                right: 0 !important;
+                float: right !important;
+            }
+            .prev {
+                left: 0 !important;
+                float: left !important;
+            }
+            .footer {
+                padding-top: 50px !important;
+                right: 0;
+                left: 0;
+            }
+            .sidebar-pin{
+                visibility: hidden;
             }
         </style>
     </body>

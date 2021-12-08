@@ -17,3 +17,5 @@ Create a welcome message for the server:<br>
 
 Remove welcome message from server:<br>
 `/welcomemsg remove`<br>
+
+<a class="button prev" href="/#/commands/utilitycommands/embed" role="button">< Embed</a>

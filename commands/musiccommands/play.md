@@ -12,3 +12,6 @@ Also able to add playlist from sources to queue<br>
 ### Usage:
 Add song or playlist:<br>
 `/play url:<String>`
+
+<a class="button prev" href="/#/commands/allcommands/index" role="button">< All Commands</a>
+<a class="button next" href="/#/commands/musiccommands/search" role="button">Search ></a>
