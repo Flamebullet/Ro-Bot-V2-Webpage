@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
+* [Ro-Bot V2](./)
 
 * [Tutorials](./tutorials/index)
   * [Tomcat](./tutorials/tomcat/index)
