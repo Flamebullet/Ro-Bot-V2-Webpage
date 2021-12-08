@@ -1,8 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* Ro-Bot V2
-    * [**Getting Started**](/commands/index)
+* [**Ro-Bot V2**](/commands/index)
 
 * Commands
     * [All Commands](/commands/allcommands/index)
@@ -30,4 +29,11 @@
         * [React](/commands/basiccommands/react)
 
     * Utility Commands
+        * [Ping](/commands/utilitycommands/ping)
+        * [Clear](/commands/utilitycommands/clear)
+        * [Report](/commands/utilitycommands/report)
+        * [Reaction Role](/commands/utilitycommands/reactrole)
+        * [Twitter](/commands/utilitycommands/twitterfollow)
+        * [Embed](/commands/utilitycommands/embed)
+        * [Welcome Message](/commands/utilitycommands/welcomemsg)
 

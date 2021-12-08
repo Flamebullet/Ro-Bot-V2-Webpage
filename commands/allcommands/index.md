@@ -24,10 +24,10 @@ List of slash commands for Ro-Bot V2<br><br>
 [/react](/commands/basiccommands/react): Send reaction to a message with bot<br><br>
 
 ## Utility commands
-/ping: Check the latency between server and API<br>
-/clear: Delete messages from a channel<br>
-/report: Sends a report to Flame#0003<br>
-/reactrole: Add reaction role to a message<br>
-/twitterfollow: Follow a user with discord's webhook<br>
-/embed: Send or edit an embed message<br>
-/welcomemsg: Add welcome message to server<br><br>
+[/ping](/commands/utilitycommands/ping): Check the latency between server and API<br>
+[/clear](/commands/utilitycommands/clear): Delete messages from a channel<br>
+[/report](/commands/utilitycommands/report): Sends a report to Flame#0003<br>
+[/reactrole](/commands/utilitycommands/reactrole): Add reaction role to a message<br>
+[/twitterfollow](/commands/utilitycommands/twitterfollow): Follow a user with discord's webhook<br>
+[/embed](/commands/utilitycommands/embed): Send or edit an embed message<br>
+[/welcomemsg](/commands/utilitycommands/welcomemsg): Add welcome message to server<br><br>
