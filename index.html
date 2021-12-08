@@ -12,12 +12,27 @@
         <title>Ro-Bot V2</title>
     </head>
     <body>
-        <div id="app" style="text-align: center;"></div>
+        <div id="app"></div>
         <script>
             window.$docsify = {
                 el: "#app",
                 repo: 'https://github.com/Flamebullet/Ro-Bot-V2-Webpage',
+                loadSidebar: true,
                 loadNavbar: true,
+                plugins: [
+                    function(hook) {
+                    var footer = [
+                        '<hr/>',
+                        '<footer>',
+                        'This site content was generated using Docify and went to demo in Opensource.com',
+                        '</footer>'
+                    ].join('');
+
+                    hook.afterEach(function(html) {
+                        return html + footer;
+                    });
+                    }
+                ]
             }
         </script>
         <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
