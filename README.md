@@ -1,7 +1,6 @@
 <!-- _coverpage.md -->
-<img src="/images/favicon.png" width="200"><br>
-
 # **Ro-Bot V2**
+<img src="/images/favicon.png" width="200"><br>
 
 A multi-purpose, discord bot<br>
 <br>

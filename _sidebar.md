@@ -23,5 +23,11 @@
         * [Join Voice Channel](/commands/musiccommands/joinvc)
 
     * Basic Commands
+        * [Avatar](/commands/basiccommands/avatar)
+        * [Info](/commands/basiccommands/info)
+        * [Echo](/commands/basiccommands/echo)
+        * [Help](/commands/basiccommands/help)
+        * [React](/commands/basiccommands/react)
+
     * Utility Commands
 

@@ -21,8 +21,6 @@
     </head>
     <body>
         <div id="app"></div>
-        <style>
-        </style>
         <script>
             window.$docsify = {
                 el: "#app",
@@ -110,8 +108,22 @@
             type="text/javascript">
         </script>
 
-        <!-- Sidebar -->
-        <!-- plugins -->
+        <!-- Sidebar plugins -->
         <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+        <style>
+            .sidebar-toggle {
+                position: sticky !important;
+                top: 10px !important;
+                left: 10px !important;
+                padding-top: 15px !important;
+                padding-right: 15px !important;
+            }
+            /* .app-nav {
+                position: sticky !important;
+            } */
+            .search {
+                padding-top: 40px !important;
+            }
+        </style>
     </body>
 </html>

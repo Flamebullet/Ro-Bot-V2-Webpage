@@ -17,11 +17,11 @@ List of slash commands for Ro-Bot V2<br><br>
 [/joinvc](/commands/musiccommands/joinvc): Pull bot into a voice channel<br><br>
 
 ## Basic commands
-/avatar: Get discord avatar of user/server<br>
-/info: Get discord infomation of user/server<br>
-/echo: Repeat a phrase in another channel<br>
-/help: Get list of command and functions<br>
-/react: Send reaction to a message with bot<br><br>
+[/avatar](/commands/basiccommands/avatar): Get discord avatar of user/server<br>
+[/info](/commands/basiccommands/info): Get discord infomation of user/server<br>
+[/echo](/commands/basiccommands/echo): Repeat a phrase in another channel<br>
+[/help](/commands/basiccommands/help): Get list of command and functions<br>
+[/react](/commands/basiccommands/react): Send reaction to a message with bot<br><br>
 
 ## Utility commands
 /ping: Check the latency between server and API<br>

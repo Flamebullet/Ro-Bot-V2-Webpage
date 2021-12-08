@@ -5,3 +5,7 @@ Invite the bot with this link: [https://discord.com/oauth2/authorize?client_id=7
 ## QuickStart
 Type ```/help``` to show list of all commands<br>
 Type ```/help command:<command name>``` to show detailed infomation of specified command<br><br>
+
+## Images of bot
+![musicFunction](https://user-images.githubusercontent.com/61338326/143795646-2470dd22-fc00-4cf9-9d30-31f02bd572e7.png)
+![slashFunction](https://user-images.githubusercontent.com/61338326/143795904-be0cc3bd-4785-41e5-8b03-c85e6f60fd2e.png)
