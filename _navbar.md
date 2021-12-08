@@ -3,8 +3,9 @@
 
 * [Ro-Bot V2](./)
 
-* Getting started
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
+* [Tutorials](./tutorials/index)
+  * [Tomcat](./tutorials/tomcat/index)
+  * [Cloud](./tutorials/cloud/index)
+  * [Java](./tutorials/java/index)
+
+* [About](./about/index)
