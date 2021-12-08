@@ -5,6 +5,7 @@
 
 * [All Commands](./commands/allcommands/index)
 * [Music Commands](./commands/musiccommands/index)
+    * [/play](./commands/musiccommands/play)
 * [Basic Commands](./commands/basiccommands/index)
 * [Utility Commands](./commands/utilitycommands/index)
 
