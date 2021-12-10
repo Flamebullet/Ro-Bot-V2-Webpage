@@ -152,6 +152,21 @@
             .sidebar-pin{
                 visibility: hidden;
             }
+            @media only screen and (min-width: 760px) {
+                img .docimages {
+                    transition:transform 0.25s ease;
+                }
+                img.docimages:hover {
+                    -webkit-transform:scale(2);
+                    transform:scale(2);
+                }
+                img.docimages.left:hover {
+                    transform-origin: left;
+                }
+                img.docimages.right:hover {
+                    transform-origin: right;
+                }
+            }
         </style>
     </body>
 </html>
