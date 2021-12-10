@@ -12,9 +12,9 @@ Get tweets from a twitter user and forward them to discord<br>
 > (Hover mouse over image to zoom)<br>
 > <img class='docimages left' src="/images/server_settings.png" alt="Server Settings" style="height:320px; vertical-align:middle;"> > <img class='docimages' src="/images/integrations.png" alt="Integrations" style="height:320px; vertical-align:middle;"> > <img class='docimages right' src="/images/webhook.png" alt="Webhook" style="height:320px; vertical-align:middle;">
 
-Get infomation of specified user:<br>
+Follow Twitter user's tweets:<br>
 `/twitterfollow follow screenname:<String> webhookurl:<String> imageonly:<Boolean> sendretweet:<Boolean>`<br>
-Get infomation of current server:<br>
+Stop following Twitter user's tweets:<br>
 `/twitterfollow unfollow screenname:<String> webhookurl:<String>`<br>
 
 <a class="button prev" href="./#/commands/utilitycommands/reactrole" role="button">< Reaction Role</a>

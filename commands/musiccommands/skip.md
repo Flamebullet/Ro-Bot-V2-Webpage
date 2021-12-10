@@ -1,7 +1,7 @@
 # /skip
 
 ### Description:
-Remove the currently playing track from the queue.<br>
+Skip to next track in queue.<br>
 
 ### Usage:
 Skip to next track:<br>
@@ -10,5 +10,5 @@ Skip to next track:<br>
 Clear track queue only:<br>
 `/skip queue-number:<Int>`<br>
 
-<a class="button prev" href="./#/commands/musiccommands/dc" role="button">< Disconnect</a>
+<a class="button prev" href="./#/commands/musiccommands/prev" role="button">< Previous Track</a>
 <a class="button next" href="./#/commands/musiccommands/replay" role="button">Replay ></a>

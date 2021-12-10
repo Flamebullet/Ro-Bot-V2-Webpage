@@ -25,9 +25,9 @@ Sends or edit an embed message<br>
 > `author icon, image, thumbnail, footer icon` takes in image url<br>
 > Profile picture can be added to `author icon, image, thumbnail, footer icon` by typing `-pfp` to add your profile picture and `-server` to add server icon<br><br>
 
-Add reaction role to message in current channel:<br>
+Send an embed message specified options:<br>
 `/embed add [options]`<br>
-Add reaction role to message in specified channel:<br>
+Edit embed message with specified options:<br>
 `/embed edit messageid:<String> [options]`<br>
 
 <a class="button prev" href="./#/commands/utilitycommands/twitterfollow" role="button">< Twitter</a>

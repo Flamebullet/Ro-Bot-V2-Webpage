@@ -11,4 +11,4 @@ Clear track queue only:<br>
 `/dc remove-queue`<br>
 
 <a class="button prev" href="./#/commands/musiccommands/queue" role="button">< Queue</a>
-<a class="button next" href="./#/commands/musiccommands/skip" role="button">Skip ></a>
+<a class="button next" href="./#/commands/musiccommands/prev" role="button">Previous Track ></a>
