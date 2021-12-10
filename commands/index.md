@@ -1,6 +1,6 @@
 # Ro-bot V2
 ## Inviting bot to your server
-Invite the bot with this link: [https://discord.com/oauth2/authorize?client_id=705029087869141033&permissions=8&scope=bot](https://discord.com/oauth2/authorize?client_id=705029087869141033&permissions=8&scope=bot)<br><br>
+Invite the bot with this link: [https://discord.com/api/oauth2/authorize?client_id=705029087869141033&scope=bot+applications.commands&permissions=8](https://discord.com/api/oauth2/authorize?client_id=705029087869141033&scope=bot+applications.commands&permissions=8)<br><br>
 
 ## QuickStart
 Type `/help` or [Click here](/commands/allcommands/index) to show list of all commands<br>
