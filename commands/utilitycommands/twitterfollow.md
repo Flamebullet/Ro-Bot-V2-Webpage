@@ -10,7 +10,7 @@ Get tweets from a twitter user and forward them to discord<br>
 >> **\*\*Important!**: When creating new webhook remember to set channel to the channel you wish to send the twitter updates in.<br>
 
 > (Hover mouse over image to zoom)<br>
-> <img class='docimages left' src="./images/server_settings.png" alt="Server Settings" style="height:320px; vertical-align:middle;"> > <img class='docimages' src="./images/integrations.png" alt="Integrations" style="height:320px; vertical-align:middle;"> > <img class='docimages right' src="./images/webhook.png" alt="Webhook" style="height:320px; vertical-align:middle;">
+> <div class='flex'><img class='docimages left' src="./images/server_settings.png" alt="Server Settings" style="height:320px; vertical-align:middle;"> > <img class='docimages' src="./images/integrations.png" alt="Integrations" style="height:320px; vertical-align:middle;"> > <img class='docimages right' src="./images/webhook.png" alt="Webhook" style="height:320px; vertical-align:middle;"></div>
 
 Follow Twitter user's tweets:<br>
 `/twitterfollow follow screenname:<String> webhookurl:<String> imageonly:<Boolean> sendretweet:<Boolean>`<br>
