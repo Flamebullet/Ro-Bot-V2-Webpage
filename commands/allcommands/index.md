@@ -25,7 +25,7 @@ List of slash commands for Ro-Bot V2<br><br>
 [/info](/commands/basiccommands/info): Get discord infomation of user/server<br>
 [/echo](/commands/basiccommands/echo): Repeat a phrase in another channel<br>
 [/help](/commands/basiccommands/help): Get list of command and functions<br>
-[/poll](/commands/basiccommands/poll): Get list of command and functions<br>
+[/poll](/commands/basiccommands/poll): Create poll message<br>
 [/react](/commands/basiccommands/react): Send reaction to a message with bot<br><br>
 
 ## Utility commands
