@@ -39,3 +39,4 @@
         -   [Twitter](/commands/utilitycommands/twitterfollow)
         -   [Embed](/commands/utilitycommands/embed)
         -   [Welcome Message](/commands/utilitycommands/welcomemsg)
+        -   [Get Webhook](/commands/utilitycommands/getwebhook)

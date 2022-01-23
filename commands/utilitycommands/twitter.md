@@ -20,6 +20,8 @@ Follow Twitter user's tweets:<br>
 `/twitter follow screenname:<String> webhookurl:<String> imageonly:<Boolean> sendretweet:<Boolean> sendreplies:<Boolean>`<br>
 Stop following Twitter user's tweets:<br>
 `/twitter unfollow screenname:<String> webhookurl:<String>`<br>
+List all twitter handles attached to a webhook:<br>
+`/twitter followings webhookurl:<String>`<br>
 
 <a class="button prev" href="./#/commands/utilitycommands/reactrole" role="button">< Reaction Role</a>
 <a class="button next" href="./#/commands/utilitycommands/embed" role="button">Embed ></a>
