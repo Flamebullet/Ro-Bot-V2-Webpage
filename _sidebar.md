@@ -36,7 +36,7 @@
         -   [Clear](/commands/utilitycommands/clear)
         -   [Report](/commands/utilitycommands/report)
         -   [Reaction Role](/commands/utilitycommands/reactrole)
-        -   [Twitter](/commands/utilitycommands/twitterfollow)
+        -   [Twitter](/commands/utilitycommands/twitter)
         -   [Embed](/commands/utilitycommands/embed)
         -   [Welcome Message](/commands/utilitycommands/welcomemsg)
         -   [Get Webhook](/commands/utilitycommands/getwebhook)
