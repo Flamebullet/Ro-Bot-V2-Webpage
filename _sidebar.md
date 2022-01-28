@@ -14,6 +14,7 @@
         -   [Disconnect](/commands/musiccommands/dc)
         -   [Previous Track](/commands/musiccommands/prev)
         -   [Skip Track](/commands/musiccommands/skip)
+        -   [Remove Track](/commands/musiccommands/remove)
         -   [Replay](/commands/musiccommands/replay)
         -   [Shuffle](/commands/musiccommands/shuffle)
         -   [Radio](/commands/musiccommands/radio)

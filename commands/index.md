@@ -10,6 +10,7 @@ List of slash commands for Ro-Bot V2<br><br>
 [/dc](/commands/musiccommands/dc): Delete queue and disconnect bot<br>
 [/prev](/commands/musiccommands/prev): Play previous track<br>
 [/skip](/commands/musiccommands/skip): Skip to next track in queue<br>
+[/remove](/commands/musiccommands/remove): Remove track from queue<br>
 [/replay](/commands/musiccommands/replay): Add selected song to start of queue<br>
 [/shuffle](/commands/musiccommands/shuffle): Shuffle song queue<br>
 [/radio](/commands/musiccommands/radio): Turn on youtube radio function to get recommended song<br>

@@ -1,9 +1,11 @@
 # /skip
 
 ### Description:
+
 Skip to next track in queue.<br>
 
 ### Usage:
+
 Skip to next track:<br>
 `/skip`<br>
 
