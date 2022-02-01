@@ -26,10 +26,12 @@
 
     -   Basic Commands
 
+        -   [Activity](/commands/basiccommands/activity)
         -   [Avatar](/commands/basiccommands/avatar)
         -   [Info](/commands/basiccommands/info)
         -   [Echo](/commands/basiccommands/echo)
         -   [Help](/commands/basiccommands/help)
+        -   [Poll](/commands/basiccommands/poll)
         -   [React](/commands/basiccommands/react)
 
     -   Utility Commands

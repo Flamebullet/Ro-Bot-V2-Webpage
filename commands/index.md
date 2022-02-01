@@ -22,6 +22,7 @@ List of slash commands for Ro-Bot V2<br><br>
 
 ## Basic commands
 
+[/activity](/commands/basiccommands/activity): Create an invitation link to voice channel with Discord activity<br>
 [/avatar](/commands/basiccommands/avatar): Get discord avatar of user/server<br>
 [/info](/commands/basiccommands/info): Get discord infomation of user/server<br>
 [/echo](/commands/basiccommands/echo): Repeat a phrase in another channel<br>
