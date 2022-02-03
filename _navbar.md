@@ -4,7 +4,7 @@
 
 -   [Documentation](/index)
 
--   [Issues](/issues/index)
+-   [Issues](/issues)
 
     -   <a href="https://github.com/Flamebullet/Ro-Bot-V2-Webpage/issues" target="_blank">View all Issues</a>
     -   <a href="https://github.com/Flamebullet/Ro-Bot-V2-Webpage/issues/new" target="_blank">Report Issues</a>
