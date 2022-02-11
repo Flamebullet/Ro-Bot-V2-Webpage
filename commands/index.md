@@ -39,6 +39,7 @@ List of slash commands for Ro-Bot V2<br><br>
 [/twitter](/commands/utilitycommands/twitter): Follow a user with discord's webhook<br>
 [/embed](/commands/utilitycommands/embed): Send or edit an embed message<br>
 [/welcomemsg](/commands/utilitycommands/welcomemsg): Add welcome message to server<br>
-[/getwebhook](/commands/utilitycommands/getwebhook): Show list of channel's webhook<br><br>
+[/getwebhook](/commands/utilitycommands/getwebhook): Show list of channel's webhook<br>
+[/botchannel](/commands/utilitycommands/botchannel): Set channel to use bot command<br><br>
 
 <a class="button next" href="./#/commands/musiccommands/play" role="button">Play ></a>
