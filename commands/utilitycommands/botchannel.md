@@ -2,7 +2,8 @@
 
 ### Description:
 
-**Administrator permission required to use this command**<br>
+> **Administrator permission required to use this command**<br>
+
 Set specific channels to use bot command<br>
 
 ### Usage:
