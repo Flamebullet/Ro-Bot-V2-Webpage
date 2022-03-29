@@ -40,6 +40,7 @@ List of slash commands for Ro-Bot V2<br><br>
 [/embed](/commands/utilitycommands/embed): Send or edit an embed message<br>
 [/welcomemsg](/commands/utilitycommands/welcomemsg): Add welcome message to server<br>
 [/getwebhook](/commands/utilitycommands/getwebhook): Show list of channel's webhook<br>
-[/botchannel](/commands/utilitycommands/botchannel): Set channel to use bot command<br><br>
+[/botchannel](/commands/utilitycommands/botchannel): Set channel to use bot command<br>
+[/timeout](/commands/utilitycommands/timeout): Timeout a user<br><br>
 
 <a class="button next" href="./#/commands/musiccommands/play" role="button">Play ></a>

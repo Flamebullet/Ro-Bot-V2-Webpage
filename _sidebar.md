@@ -44,3 +44,4 @@
         -   [Welcome Message](/commands/utilitycommands/welcomemsg)
         -   [Get Webhook](/commands/utilitycommands/getwebhook)
         -   [Bot Channel](/commands/utilitycommands/botchannel)
+        -   [Timeout](/commands/utilitycommands/timeout)

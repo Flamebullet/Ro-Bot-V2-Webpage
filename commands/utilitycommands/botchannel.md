@@ -18,3 +18,4 @@ List all bot command channel<br>
 `/botchannel list`: List all bot channels<br>
 
 <a class="button prev" href="./#/commands/utilitycommands/getwebhook" role="button">< Get Webhook</a>
+<a class="button next" href="./#/commands/utilitycommands/timeout" role="button">Timeout ></a>
