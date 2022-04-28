@@ -45,3 +45,4 @@
         -   [Get Webhook](/commands/utilitycommands/getwebhook)
         -   [Bot Channel(Depreciated)](/commands/utilitycommands/botchannel)
         -   [Timeout](/commands/utilitycommands/timeout)
+        -   [Youtube](/commands/utilitycommands/youtube)

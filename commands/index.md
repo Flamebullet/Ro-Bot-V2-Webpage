@@ -41,6 +41,7 @@ List of slash commands for Ro-Bot V2<br><br>
 [/welcomemsg](/commands/utilitycommands/welcomemsg): Add welcome message to server<br>
 [/getwebhook](/commands/utilitycommands/getwebhook): Show list of channel's webhook<br>
 [/botchannel](/commands/utilitycommands/botchannel): Set channel to use bot command(Depreciated)<br>
-[/timeout](/commands/utilitycommands/timeout): Timeout a user<br><br>
+[/timeout](/commands/utilitycommands/timeout): Timeout a user<br>
+[/youtube](/commands/utilitycommands/youtube): Get YouTube URL from a YouTube Video ID or Spotify track URL<br><br>
 
 <a class="button next" href="./#/commands/musiccommands/play" role="button">Play ></a>
