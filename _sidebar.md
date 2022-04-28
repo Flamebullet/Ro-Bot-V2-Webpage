@@ -43,5 +43,5 @@
         -   [Embed](/commands/utilitycommands/embed)
         -   [Welcome Message](/commands/utilitycommands/welcomemsg)
         -   [Get Webhook](/commands/utilitycommands/getwebhook)
-        -   [Bot Channel](/commands/utilitycommands/botchannel)
+        -   [Bot Channel(Depreciated)](/commands/utilitycommands/botchannel)
         -   [Timeout](/commands/utilitycommands/timeout)

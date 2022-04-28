@@ -1,4 +1,6 @@
-# /botchannel
+# /botchannel (Depreciated)
+
+### Command is depreciated as discord added built-in function to set bot channel
 
 ### Description:
 
