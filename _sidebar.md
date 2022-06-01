@@ -39,6 +39,7 @@
         -   [Clear](/commands/utilitycommands/clear)
         -   [Report](/commands/utilitycommands/report)
         -   [Reaction Role](/commands/utilitycommands/reactrole)
+        -   [Reaction Role Select Menu](/commands/utilitycommands/reactroledd)
         -   [Twitter](/commands/utilitycommands/twitter)
         -   [Embed](/commands/utilitycommands/embed)
         -   [Welcome Message](/commands/utilitycommands/welcomemsg)

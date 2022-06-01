@@ -36,6 +36,7 @@ List of slash commands for Ro-Bot V2<br><br>
 [/clear](/commands/utilitycommands/clear): Delete messages from a channel<br>
 [/report](/commands/utilitycommands/report): Sends a report to Flame#0003<br>
 [/reactrole](/commands/utilitycommands/reactrole): Add reaction role to a message<br>
+[/reactroledd](/commands/utilitycommands/reactroledd): Create a reaction role select menu message<br>
 [/twitter](/commands/utilitycommands/twitter): Follow a user with discord's webhook<br>
 [/embed](/commands/utilitycommands/embed): Send or edit an embed message<br>
 [/welcomemsg](/commands/utilitycommands/welcomemsg): Add welcome message to server<br>

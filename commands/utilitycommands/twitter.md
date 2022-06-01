@@ -25,5 +25,5 @@ List all twitter handles attached to a webhook:<br>
 Get url to download a tweet video:<br>
 `/twitter getvideo url:<url>`<br>
 
-<a class="button prev" href="./#/commands/utilitycommands/reactrole" role="button">< Reaction Role</a>
+<a class="button prev" href="./#/commands/utilitycommands/reactroledd" role="button">< Reaction Role</a>
 <a class="button next" href="./#/commands/utilitycommands/embed" role="button">Embed ></a>
