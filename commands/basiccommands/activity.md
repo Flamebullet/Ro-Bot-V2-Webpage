@@ -10,6 +10,7 @@ List of activities(No server boost required):
 -   Word Snacks
 -   Sketch Heads
 -   Ask Away
+-   Know What I Meme
 
 List of activities(Min level 1 boost required):
 
