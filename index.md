@@ -15,5 +15,5 @@ Report the issue [here](https://github.com/Flamebullet/Ro-Bot-V2-Webpage/issues)
 
 ## Images of bot
 
-![musicFunction](https://user-images.githubusercontent.com/61338326/143795646-2470dd22-fc00-4cf9-9d30-31f02bd572e7.png)
-![slashFunction](https://user-images.githubusercontent.com/61338326/143795904-be0cc3bd-4785-41e5-8b03-c85e6f60fd2e.png)
+![music player controls](https://user-images.githubusercontent.com/61338326/212118417-174a8672-2e9f-4ea0-802e-4b9020410e89.png)
+![slash command](https://user-images.githubusercontent.com/61338326/212118489-b692e2cc-79fa-47c8-8178-83b35584b474.png)
