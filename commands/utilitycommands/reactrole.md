@@ -23,4 +23,4 @@ Remove reaction role that assigns selected role from message:<br>
 `/reactrole removeroleid messageid:<String> role:<Role> `<br>
 
 <a class="button prev" href="./#/commands/utilitycommands/report" role="button">< Report</a>
-<a class="button next" href="./#/commands/utilitycommands/reactroledd" role="button">Twitter ></a>
+<a class="button next" href="./#/commands/utilitycommands/reactroledd" role="button">Reaction Role Dropdown ></a>
