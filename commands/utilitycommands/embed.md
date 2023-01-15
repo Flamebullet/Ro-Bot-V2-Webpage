@@ -34,5 +34,5 @@ Send an embed message specified options:<br>
 Edit embed message with specified options:<br>
 `/embed edit messageid:<String> [options]`<br>
 
-<a class="button prev" href="./#/commands/utilitycommands/twitter" role="button">< Twitter</a>
-<a class="button next" href="./#/commands/utilitycommands/welcomemsg" role="button">Welcome Message ></a>
+<a class="button prev" href="./#/commands/utilitycommands/twitter" role="button">< Clear</a>
+<a class="button next" href="./#/commands/utilitycommands/getwebhook" role="button">Get Webhook ></a>

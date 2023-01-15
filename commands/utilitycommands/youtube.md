@@ -8,4 +8,4 @@ Get YouTube URL from a YouTube Video ID or Spotify track URL<br>
 
 `/youtube id:<String>`<br>
 
-<a class="button prev" href="./#/commands/utilitycommands/timeout" role="button">< Timeout</a>
+<a class="button prev" href="./#/commands/utilitycommands/welcomemsg" role="button">< Welcome Message</a>

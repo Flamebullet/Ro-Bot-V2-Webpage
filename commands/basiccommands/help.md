@@ -12,4 +12,4 @@ Show detail of specified command:<br>
 `/help command:<String>`<br>
 
 <a class="button prev" href="./#/commands/basiccommands/echo" role="button">< Echo</a>
-<a class="button next" href="./#/commands/basiccommands/poll" role="button">Poll ></a>
+<a class="button next" href="./#/commands/basiccommands/info" role="button">Info ></a>

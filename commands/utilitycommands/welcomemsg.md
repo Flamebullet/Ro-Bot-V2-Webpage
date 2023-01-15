@@ -23,5 +23,5 @@ Create a welcome message for the server:<br>
 Remove welcome message from server:<br>
 `/welcomemsg remove`<br>
 
-<a class="button prev" href="./#/commands/utilitycommands/embed" role="button">< Embed</a>
-<a class="button next" href="./#/commands/utilitycommands/getwebhook" role="button">Get Webhook ></a>
+<a class="button prev" href="./#/commands/utilitycommands/twitter" role="button">< Twitter</a>
+<a class="button next" href="./#/commands/utilitycommands/youtube" role="button">Youtube ></a>

@@ -16,4 +16,4 @@ Remove reaction from a message in another channel:<br>
 `/react remove messageid:<Int> emoji:<String> channel:<Channel>`<br>
 
 <a class="button prev" href="./#/commands/basiccommands/poll" role="button">< Poll</a>
-<a class="button next" href="./#/commands/utilitycommands/ping" role="button">Ping ></a>
+<a class="button next" href="./#/commands/utilitycommands/botchannel" role="button">Bot Channel ></a>

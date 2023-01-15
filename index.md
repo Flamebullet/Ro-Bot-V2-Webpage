@@ -4,6 +4,13 @@
 
 Invite the bot with this link: [https://discord.com/api/oauth2/authorize?client_id=705029087869141033&scope=bot+applications.commands&permissions=8](https://discord.com/api/oauth2/authorize?client_id=705029087869141033&scope=bot+applications.commands&permissions=8)<br><br>
 
+## Features
+
+-   Music Player/Music bot functions
+-   Twitch Streaming Notifications
+-   Twitter Notifications
+-   Role Management via Reaction roles
+
 ## QuickStart
 
 Type `/help` or [Click here](/commands/index) to show list of all commands<br>

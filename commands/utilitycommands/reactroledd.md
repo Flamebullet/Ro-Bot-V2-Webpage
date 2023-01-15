@@ -21,4 +21,4 @@ Delete a reaction role select menu message:<br>
 `/reactroledd delete messageid:<Integer> channel:<?Channel>`<br>
 
 <a class="button prev" href="./#/commands/utilitycommands/reactrole" role="button">< Reaction Role</a>
-<a class="button next" href="./#/commands/utilitycommands/twitter" role="button">Twitter ></a>
+<a class="button next" href="./#/commands/utilitycommands/report" role="button">Report ></a>

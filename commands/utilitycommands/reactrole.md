@@ -22,5 +22,5 @@ Remove reaction role with selected emoji from message:<br>
 Remove reaction role that assigns selected role from message:<br>
 `/reactrole removeroleid messageid:<String> role:<Role> `<br>
 
-<a class="button prev" href="./#/commands/utilitycommands/report" role="button">< Report</a>
-<a class="button next" href="./#/commands/utilitycommands/reactroledd" role="button">Reaction Role Dropdown ></a>
+<a class="button prev" href="./#/commands/utilitycommands/ping" role="button">< Ping</a>
+<a class="button next" href="./#/commands/utilitycommands/reactroledd" role="button">Reaction Role Select Menu ></a>

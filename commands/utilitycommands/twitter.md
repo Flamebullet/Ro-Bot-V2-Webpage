@@ -19,5 +19,5 @@ List all twitter handles that is currently following in channel:<br>
 Get url to download a tweet video:<br>
 `/twitter getvideo url:<url>`<br>
 
-<a class="button prev" href="./#/commands/utilitycommands/reactroledd" role="button">< Reaction Role Dropdown</a>
-<a class="button next" href="./#/commands/utilitycommands/embed" role="button">Embed ></a>
+<a class="button prev" href="./#/commands/utilitycommands/twitch" role="button">< Twitch</a>
+<a class="button next" href="./#/commands/utilitycommands/welcomemsg" role="button">Welcome message ></a>

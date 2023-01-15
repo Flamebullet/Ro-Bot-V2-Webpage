@@ -13,5 +13,5 @@ Delete the most recent message:<br>
 Delete specified number of most recent messages:<br>
 `/clear number:<Int>`<br>
 
-<a class="button prev" href="./#/commands/utilitycommands/ping" role="button">< Ping</a>
-<a class="button next" href="./#/commands/utilitycommands/report" role="button">Report ></a>
+<a class="button prev" href="./#/commands/utilitycommands/botchannel" role="button">< Bot Channel</a>
+<a class="button next" href="./#/commands/utilitycommands/embed" role="button">Embed ></a>
