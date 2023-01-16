@@ -24,25 +24,26 @@ List of slash commands for Ro-Bot V2<br><br>
 
 [/activity](/commands/basiccommands/activity): Create an invitation link to voice channel with Discord activity<br>
 [/avatar](/commands/basiccommands/avatar): Get discord avatar of user/server<br>
-[/info](/commands/basiccommands/info): Get discord infomation of user/server<br>
 [/echo](/commands/basiccommands/echo): Repeat a phrase in another channel<br>
 [/help](/commands/basiccommands/help): Get list of command and functions<br>
+[/info](/commands/basiccommands/info): Get discord infomation of user/server<br>
 [/poll](/commands/basiccommands/poll): Create poll message<br>
 [/react](/commands/basiccommands/react): Send reaction to a message with bot<br><br>
 
 ## Utility commands
 
-[/ping](/commands/utilitycommands/ping): Check the latency between server and API<br>
+[/botchannel](/commands/utilitycommands/botchannel): Set channel to use bot command(Deprecated)<br>
 [/clear](/commands/utilitycommands/clear): Delete messages from a channel<br>
-[/report](/commands/utilitycommands/report): Sends a report to Flame#0003<br>
+[/embed](/commands/utilitycommands/embed): Send or edit an embed message<br>
+[/getwebhook](/commands/utilitycommands/getwebhook): Show list of channel's webhook<br>
+[/ping](/commands/utilitycommands/ping): Check the latency between server and API<br>
 [/reactrole](/commands/utilitycommands/reactrole): Add reaction role to a message<br>
 [/reactroledd](/commands/utilitycommands/reactroledd): Create a reaction role select menu message<br>
-[/twitter](/commands/utilitycommands/twitter): Follow a user with discord's webhook<br>
-[/embed](/commands/utilitycommands/embed): Send or edit an embed message<br>
-[/welcomemsg](/commands/utilitycommands/welcomemsg): Add welcome message to server<br>
-[/getwebhook](/commands/utilitycommands/getwebhook): Show list of channel's webhook<br>
-[/botchannel](/commands/utilitycommands/botchannel): Set channel to use bot command(Deprecated)<br>
+[/report](/commands/utilitycommands/report): Sends a report to Flame#0003<br>
 [/timeout](/commands/utilitycommands/timeout): Timeout a user<br>
+[/twitch](/commands/utilitycommands/twitch): Send Twitch's going live notification on discord<br>
+[/twitter](/commands/utilitycommands/twitter): Follow a user's tweet with discord's webhook<br>
+[/welcomemsg](/commands/utilitycommands/welcomemsg): Add welcome message to server<br>
 [/youtube](/commands/utilitycommands/youtube): Get YouTube URL from a YouTube Video ID or Spotify track URL<br><br>
 
 <a class="button next" href="./#/commands/musiccommands/play" role="button">Play ></a>
