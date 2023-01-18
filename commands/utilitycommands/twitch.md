@@ -6,8 +6,8 @@ Twitch going live notification integration to send a notification to a discord c
 
 ### Usage:
 
-Add a user to send notification when they go live:<br>
-`/twitch follow user:<User> twitchurl:<String> mention:<Role:optional>`<br>
+Add a streamer to send notification when they go live:<br>
+`/twitch follow twitchurl:<String> user:<User:optional> mention:<Role:optional>`<br>
 Remove a user to send notification when they go live:<br>
 `/twitch unfollow twitchurl:<String>`<br>
 View all followed users in the server:<br>
