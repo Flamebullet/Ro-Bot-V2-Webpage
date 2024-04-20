@@ -22,4 +22,4 @@ Setup some settings for twitch going live notification integration:<br>
 > `/twitch init` should be used first to initialized the server before the rest of the command will work.<br>
 
 <a class="button prev" href="./#/commands/utilitycommands/timeout" role="button">< Timeout</a>
-<a class="button next" href="./#/commands/utilitycommands/twitter" role="button">Twitter ></a>
+<a class="button next" href="./#/commands/utilitycommands/welcomemsg" role="button">Welcome message ></a>
